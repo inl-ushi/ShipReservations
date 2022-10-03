@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ShipReservations.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SYS_AppName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">フェリー予約システム</Value>
+    </Setting>
+    <Setting Name="DB_ServerName_Stage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.231</Value>
+    </Setting>
+    <Setting Name="DB_ServerName_Release" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.231</Value>
+    </Setting>
+    <Setting Name="DB_Schema_Dev" Type="System.String" Scope="User">
+      <Value Profile="(Default)">shipR</Value>
+    </Setting>
+    <Setting Name="DB_UserID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">inluser</Value>
+    </Setting>
+    <Setting Name="DB_Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">inl1926</Value>
+    </Setting>
+    <Setting Name="DB_Schema_Stage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">フェリー予約sys_Stage</Value>
+    </Setting>
+    <Setting Name="DB_Schema_Release" Type="System.String" Scope="User">
+      <Value Profile="(Default)">フェリー予約sys_release</Value>
+    </Setting>
+    <Setting Name="APP_BuildVer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2021/05/10</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
